@@ -43,7 +43,7 @@ on target extraction. It tests:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/unzipvirus-pro.git
+git clone https://github.com/ethicalninja1/unzipvirus-pro.git
 cd unzipvirus-pro
 chmod +x unzipvirus_pro.py
 pip install -r requirements.txt  # No external deps required — pure stdlib
